@@ -13,16 +13,10 @@
       "reminder": true
     },
     {
-      "text": "dasd",
-      "day": "asdasd",
+      "text": "Meet Friends",
+      "day": "May 10th at 8:00pm",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "cvbvcb",
-      "day": "cvbcv",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
